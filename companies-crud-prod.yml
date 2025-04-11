@@ -1,0 +1,7 @@
+db:
+  username: servicecompany-prod
+  maximum-pool-size: 5
+  connection-timeout: 20000
+  url: jdbc:postgresql://localhost:5432/companies
+  password: companies2025-prod
+  driverClassName: org.postgresql.Driver
